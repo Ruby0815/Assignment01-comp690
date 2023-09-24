@@ -131,3 +131,8 @@ console.log(`step 19 the value of x1: ${x1}`);
 x=20%3;
 x/=1;
 console.log(`The result of step 20 is:${x}`)
+
+//step 21
+let a1=10;
+let b1=20;
+window.console.log(`The result of step 21 :  ${a1==10 || b1==20}`)
