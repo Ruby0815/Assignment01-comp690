@@ -97,3 +97,6 @@ alert("Hello " + name12 + " \, welcome to the JavaScript class!")
 //step13
 let course="Java Script";
 alert("Hello " + name12 + " \, welcome to the "+course+ "class!")
+
+//step14
+alert("Hello " + myName + ".\nWelcome to the JavaScript class!")
