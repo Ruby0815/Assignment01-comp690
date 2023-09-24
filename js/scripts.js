@@ -86,5 +86,9 @@ console.log("Type of variable obj: "+typeof(obj))
 console.log("Type of variable unde: "+typeof(unde))
 
 //step 11
-let myName='Ruby Verma';
+let myName='Zak Ruvalcaba';
 alert("Hello " + myName + " \, welcome to the JavaScript class!")
+//step 12
+let name12;
+name12='Ruby Verma';
+alert("Hello " + name12 + " \, welcome to the JavaScript class!")
