@@ -17,3 +17,13 @@ let comExp2 =55+(43%2)+1;
 //VARIABLE EXPRESSION
 let varEx1=33;
 let varExp2=11.33;
+//STEP4
+let firstName;
+let lastName;
+let strAddress;
+let strCity;
+let strState;
+let intZipCode;
+let intYourAge;
+let referralSource;
+let boolMayWeContactYou;
