@@ -5,3 +5,8 @@ function theMonth(){};
 let currentMonth;
 let summerMonth;
 let mylibraryFunction;
+//STEP 2
+2.2;
+'hello';
+false;
+null;
