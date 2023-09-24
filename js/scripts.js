@@ -115,3 +115,8 @@ alert("I am taking: " +myClass);
 let x=10,y=20;
 let sum=x+y;
 console.log(`sum of x and y is: ${sum}`);
+
+//step 18
+let X=20;
+X+=20;
+console.log(`After adding 20 of X by increment opeartotr: ${X}` );
