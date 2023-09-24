@@ -110,3 +110,8 @@ alert("Your name is: " +yourName);
 let myClass;
 myClass = prompt("Which class wre you taking?")
 alert("I am taking: " +myClass);
+
+//step 17
+let x=10,y=20;
+let sum=x+y;
+console.log(`sum of x and y is: ${sum}`);
