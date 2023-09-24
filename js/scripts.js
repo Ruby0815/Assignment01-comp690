@@ -40,9 +40,9 @@ let intYourAge1=33;
 let strFirstNamee1="rakhi",strLasttNamee2="singh",
 intYourAgee1=33;
  //third way
- let strFirstName3="rakhi" ;
-let strLasttName3="singh";
-let intYourAge3=33;;
+ let strFirstName3;
+let strLasttName3;
+let intYourAge3;
  strFirstName3="rakhi" ;
  strLasttName3="singh";
  intYourAge3=33;
