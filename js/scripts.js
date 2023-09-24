@@ -103,5 +103,10 @@ alert("Hello " + myName + ".\nWelcome to the JavaScript class!")
 
 //step 15
 let yourName;
-yourName=prompt("Enter your name");
-alert("Your name is: "+yourName)
+yourName = prompt("Enter your name");
+alert("Your name is: " +yourName);
+
+//step 16
+let myClass;
+myClass = prompt("Which class wre you taking?")
+alert("I am taking: " +myClass);
