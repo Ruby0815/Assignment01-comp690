@@ -84,3 +84,7 @@ console.log("Type of variable num: "+typeof(num))
 console.log("Type of variable bool: "+typeof(bool))
 console.log("Type of variable obj: "+typeof(obj))
 console.log("Type of variable unde: "+typeof(unde))
+
+//step 11
+let myName='Ruby Verma';
+alert("Hello " + myName + " \, welcome to the JavaScript class!")
