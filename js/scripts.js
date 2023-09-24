@@ -98,5 +98,10 @@ alert("Hello " + name12 + " \, welcome to the JavaScript class!")
 let course="Java Script";
 alert("Hello " + name12 + " \, welcome to the "+course+ "class!")
 
-//step14
+//step14(\n is added for new line)
 alert("Hello " + myName + ".\nWelcome to the JavaScript class!")
+
+//step 15
+let yourName;
+yourName=prompt("Enter your name");
+alert("Your name is: "+yourName)
