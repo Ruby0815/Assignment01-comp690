@@ -135,6 +135,7 @@ console.log(`The result of step 20 is:${x}`)
 //step 21
 let a1=10;
 let b1=20;
-window.console.log(`The result of step 21 :  ${a1==10 || b1==20}`)
+window.console.log(`The result of step 21 :  ${a1==10 || b1==10}`)
 //step 22
-window.console.log(`The result of step 21 :  ${a1==10 && b1==20}`)
+let result= ((a1==10) && (b1==10));
+window.console.log(`The result of step 22 :  ${result}`)
