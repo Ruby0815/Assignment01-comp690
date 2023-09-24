@@ -60,3 +60,7 @@ let var2;
 var2=true + 2;//for true is 1 and false is 0
 console.log(var2)
 //Boolean is coerced to a  number
+
+//step 8 I used here backslash(\)
+let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
+console.log(someString)
