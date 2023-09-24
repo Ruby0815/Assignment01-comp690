@@ -125,3 +125,9 @@ console.log(`After adding 20 of X by increment opeartotr: ${X}` );
 let x1=20;
 x1 *= 5;
 console.log(`step 19 the value of x1: ${x1}`);
+
+//step 20
+
+x=20%3;
+x/=1;
+console.log(`The result of step 20 is:${x}`)
