@@ -120,3 +120,8 @@ console.log(`sum of x and y is: ${sum}`);
 let X=20;
 X+=20;
 console.log(`After adding 20 of X by increment opeartotr: ${X}` );
+
+//step 19
+let x1=20;
+x1 *= 5;
+console.log(`step 19 the value of x1: ${x1}`);
