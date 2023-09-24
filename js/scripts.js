@@ -45,4 +45,9 @@ let strLasttName3="singh";
 let intYourAge3=33;;
  strFirstName3="rakhi" ;
  strLasttName3="singh";
- intYourAge3=33;;
+ intYourAge3=33;
+
+ //step 6
+ let classJoining;
+classJoining = 2; 
+console.log("I joined for "+classJoining+" year");
