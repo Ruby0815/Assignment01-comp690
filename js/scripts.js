@@ -70,3 +70,17 @@ let var9,varr9;
 var9=null;
 console.log(var9);
 console.log(varr9);
+
+//step10
+let str,num,bool,obj,unde;
+str='zak';
+num=20;
+bool=true;
+obj={};
+//for unde  we will not assign any value
+
+console.log("Type of variable str: "+typeof(str))
+console.log("Type of variable num: "+typeof(num))
+console.log("Type of variable bool: "+typeof(bool))
+console.log("Type of variable obj: "+typeof(obj))
+console.log("Type of variable unde: "+typeof(unde))
