@@ -51,3 +51,12 @@ let intYourAge3=33;;
  let classJoining;
 classJoining = 2; 
 console.log("I joined for "+classJoining+" year");
+
+//step 7
+let var1;
+var1=true+' hello';
+console.log(var1);///Boolean is coerced to a string
+let var2;
+var2=true + 2;//for true is 1 and false is 0
+console.log(var2)
+//Boolean is coerced to a  number
