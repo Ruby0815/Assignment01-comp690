@@ -64,3 +64,9 @@ console.log(var2)
 //step 8 I used here backslash(\)
 let someString = 'Who once said, \"Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former.\"'
 console.log(someString)
+
+//step 9
+let var9,varr9;
+var9=null;
+console.log(var9);
+console.log(varr9);
